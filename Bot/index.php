@@ -1,6 +1,14 @@
 <?php
-ob_start();
+////////BENCHAMIN LOUIS//////
+//CHANNEL:- T.ME/INDUSBOTS////
+error_reporting(0);
+
+set_time_limit(0);
+
+flush();
+##------------------------------##
 define('API_KEY',$BOT_TOKEN);
+
 ini_set("log_errors","off");
 function Bot($method,$datas=[]){
 $url = "https://api.telegram.org/bot".API_KEY."/".$method;
