@@ -1,4 +1,6 @@
 <?php
+
+require_once('config.php');
 ////////BENCHAMIN LOUIS//////
 //CHANNEL:- T.ME/INDUSBOTS////
 error_reporting(0);
