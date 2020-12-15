@@ -64,7 +64,7 @@ $phone = $get['results'][0]['phone'];
 $ssn = $get['results'][0]['id']['value'];
 
 if($msg == '/gen')
-Bot('sendphoto',[
+Bot('sendmessage',[
 'chat_id'=>$chat_id,
 'text'=> "***🌐 Generated Data 🌐***
 
