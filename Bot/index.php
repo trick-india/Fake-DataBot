@@ -94,5 +94,6 @@ Bot('sendmessage',[
 
 
 ***GENERATED FROM:- $BOT_USERNAME***",
+'parse_mode'=>"MarkDown",
 ]);
 }
