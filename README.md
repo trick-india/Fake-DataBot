@@ -4,7 +4,7 @@ A Bot That Generate Random Data Of Us Citizens
 # DEPLOY 
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benchamxd/Fake-DataBot/tree/master)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/trick-india/Fake-DataBot/tree/master)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku URL>``
 
@@ -22,7 +22,7 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ## HELP ME
 
-For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/induschats).
+For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/b0rntole4rn).
 
 
 ##
